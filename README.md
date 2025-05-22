@@ -70,4 +70,3 @@ The application uses MediaPipe's hand tracking solution to detect and track hand
 2. For swipes: Tracks the movement of the wrist over multiple frames to determine direction and magnitude
 
 The recognized gestures are then translated into keyboard commands using PyAutoGUI to control media playback.
-
