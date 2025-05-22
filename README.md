@@ -71,10 +71,3 @@ The application uses MediaPipe's hand tracking solution to detect and track hand
 
 The recognized gestures are then translated into keyboard commands using PyAutoGUI to control media playback.
 
-## Contributing
-
-Feel free to submit issues and enhancement requests!
-
-## License
-
-This project is open source and available under the MIT License. 
